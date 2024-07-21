@@ -7,6 +7,7 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [Connection concepts in NEST](https://www.fabriziomusacchio.com/blog/2024-06-25-nest_connection_concepts/)
 * [Izhikevich SNN simulated with NEST](https://www.fabriziomusacchio.com/blog/2024-06-30-nest_izhikevich_snn/)
 * [Oscillatory population dynamics of GIF neurons simulated with NEST](https://www.fabriziomusacchio.com/blog/2024-07-14-oscillating_gif_neuron_population/)
+* [Brunel network: A comprehensive framework for studying neural network dynamics](https://www.fabriziomusacchio.com/blog/2024-07-21-brunel_network/)
 
 
 For reproducibility:
