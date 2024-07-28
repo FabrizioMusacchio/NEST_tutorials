@@ -17,12 +17,14 @@ import nest.raster_plot
 import scipy.special as sp
 # set the verbosity of the NEST simulator:
 nest.set_verbosity("M_WARNING")
+
 # set global properties for all plots:
 plt.rcParams.update({'font.size': 12})
 plt.rcParams["axes.spines.top"]    = False
 plt.rcParams["axes.spines.bottom"] = False
 plt.rcParams["axes.spines.left"]   = False
 plt.rcParams["axes.spines.right"]  = False
+
 # create a folder "figures" to save the plots (if it does not exist):
 if not os.path.exists('figures'):
     os.makedirs('figures')
