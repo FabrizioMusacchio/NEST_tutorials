@@ -9,6 +9,8 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [Oscillatory population dynamics of GIF neurons simulated with NEST](https://www.fabriziomusacchio.com/blog/2024-07-14-oscillating_gif_neuron_population/)
 * [Brunel network: A comprehensive framework for studying neural network dynamics](https://www.fabriziomusacchio.com/blog/2024-07-21-brunel_network/)
 * [Example of a neuron driven by an inhibitory and excitatory neuron population](https://www.fabriziomusacchio.com/blog/2024-07-28-neuron_driven_by_populations/)
+* [What are alpha-shaped post-synaptic currents?](https://www.fabriziomusacchio.com/blog/2024-08-04-alpha_shaped_input_currents/)
+
 
 
 For reproducibility:
