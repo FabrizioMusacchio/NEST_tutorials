@@ -11,6 +11,7 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [Example of a neuron driven by an inhibitory and excitatory neuron population](https://www.fabriziomusacchio.com/blog/2024-07-28-neuron_driven_by_populations/)
 * [What are alpha-shaped post-synaptic currents?](https://www.fabriziomusacchio.com/blog/2024-08-04-alpha_shaped_input_currents/)
 * [Frequency-current (f-I) curves](https://www.fabriziomusacchio.com/blog/2024-08-11-fi_curves/)
+* [Olfactory processing via spike-time based computation](https://www.fabriziomusacchio.com/blog/2024-08-21-olfactory_processing_via_spike_time_bases_computation/)
 
 
 
