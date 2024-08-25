@@ -12,6 +12,8 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [What are alpha-shaped post-synaptic currents?](https://www.fabriziomusacchio.com/blog/2024-08-04-alpha_shaped_input_currents/)
 * [Frequency-current (f-I) curves](https://www.fabriziomusacchio.com/blog/2024-08-11-fi_curves/)
 * [Olfactory processing via spike-time based computation](https://www.fabriziomusacchio.com/blog/2024-08-21-olfactory_processing_via_spike_time_bases_computation/)
+* [Exponential (EIF) and adaptive exponential Integrate-and-Fire (AdEx) model](https://www.fabriziomusacchio.com/blog/2024-08-25-EIF_and_AdEx_model/)
+
 
 
 
