@@ -1,5 +1,8 @@
 # Release notes for the Neural Dynamics repository
 
+## 🚀 Release v1.0.5
+In this release, we added two new scripts, `short_term_synaptic_plasticity.py` and `short_term_synaptic_plasticity_with_NEST.py`, that implement short-term synaptic plasticity (STP) mechanisms, including short-term depression (STD) and short-term facilitation (STF). These scripts provide examples of how STP can be modeled in both standalone Python and using the NEST Simulator, illustrating the dynamic changes in synaptic strength that occur on short timescales in response to presynaptic activity.
+
 ## 🚀 Release v1.0.4
 In this release, we added two new scripts `clopath_spike_pairing.py` and `clopath_biderectional_connections.py` that implement the Clopath plasticity rule for synaptic learning in spiking neural networks. These scripts provide examples of how the Clopath rule can be applied to spike pairing and bidirectional connections, respectively, illustrating the dynamics of synaptic plasticity under different conditions.
 

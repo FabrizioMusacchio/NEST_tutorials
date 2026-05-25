@@ -83,7 +83,9 @@ All referenced Python scripts listed below can be found in the `tutorials/` dire
 * [Clopath plasticity rule](https://www.fabriziomusacchio.com/blog/2026-04-14-clopath_rule/)
   * ⟶ `clopath_spike_pairing.py`
   * ⟶ `clopath_biderectional_connections.py`
-
+* [Short-term depression (STD) and short-term facilitation (STF)](https://www.fabriziomusacchio.com/blog/2026-05-25-std_and_stf/)
+  * ⟶ `short_term_synaptic_plasticity.py`
+  * ⟶ `short_term_synaptic_plasticity_with_NEST.py`
 
 
 ## Installation
